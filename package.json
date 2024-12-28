@@ -2,7 +2,7 @@
   "name": "bmical",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/frankDev96/calculator.git",
+  "homepage": "https://github.com/frankDev96/bmi_calculator.git",
   "dependencies": {
     "@types/jest": "24.0.20",
     "chart.js": "2.9.1",
